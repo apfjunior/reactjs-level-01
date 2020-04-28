@@ -1,2 +1,2 @@
 # :books: reactjs-level-01 
-This project is a introduction about concepts React. Tags, components, bable, webpack and etc.
+This project is a introduction about concepts ReactJS. Tags, components, bable, webpack and etc.
